@@ -1,5 +1,5 @@
 {
-    "name": "hermawan/codeigniter4-datatables",
+    "name": "sumonst21/codeigniter4-datatables",
     "description": "Serverside Datatables library for CodeIgniter4",
     "type": "library",
     "require": {
